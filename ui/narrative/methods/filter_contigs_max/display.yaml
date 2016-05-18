@@ -1,7 +1,7 @@
 #
 # define display information
 #
-name: Filter Contigs
+name: Filter Contigs with Max
 tooltip: |
     Filters the contigs by removing contigs below a length threshold and above a max_length threshold
 screenshots: []
